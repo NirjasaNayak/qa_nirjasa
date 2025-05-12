@@ -27,6 +27,8 @@ public class StaticArrays {
 			System.out.println(s[t]);
 		}
 		
+		
+		
 			
 
 	}
